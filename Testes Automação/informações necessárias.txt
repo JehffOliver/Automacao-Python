@@ -1,0 +1,1 @@
+bandeira, java, filial, nome farmacia, mês, coleta, IP, Lista de verificação, Anexo,
